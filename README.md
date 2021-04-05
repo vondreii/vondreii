@@ -23,6 +23,6 @@ I'm a developer from Newcastle, Australia :)
 - I love watching documentaries so I have my own database that keeps track of all of them!
 
 📫 How to reach me ...
-- You can contact me through my personal website at https://vondreii.com
+- You can contact me through my personal website at https://vondreii.com/contact
 
 
