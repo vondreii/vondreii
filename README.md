@@ -7,7 +7,8 @@
 I'm a developer from Newcastle, Australia :)
 
 🔭 What I'm working on ...
-- Full time QA at Bohemia Interactive Simulations
+- Full time Software Developer 
+- Used to work in QA at Bohemia Interactive Simulations
 - Personal projects (like the ones in this GitHub!)
 - My own personal website
 
