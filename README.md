@@ -14,6 +14,7 @@ I'm a developer from Newcastle, Australia :)
 
 🌱 Things I’m currently learning ...
 - I'm trying to improve my Angular and Firebase skills
+- Automation scripts (Python or Java) to complete menial tasks faster
 - Improving my website hosting skills, including SEO and website speed
 - More C#!
 
