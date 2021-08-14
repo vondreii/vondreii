@@ -10,19 +10,17 @@ I'm a developer from Newcastle, Australia :)
 - Full time Software Developer 
 - Used to work in QA at Bohemia Interactive Simulations
 - Personal projects (like the ones in this GitHub!)
-- My own personal website
 
 🌱 Things I’m currently learning ...
 - I'm trying to improve my Angular and Firebase skills
 - Automation scripts (Python or Java) to complete menial tasks faster
-- Improving my website hosting skills, including SEO and website speed
-- More C#!
+- Improving my website hosting skills
 
 😄 Things I like to use ...
-- I love using Notion as a personal tracker for projects, note-taking and self development
+- I love using Notion and OneNote as a personal tracker for projects, note-taking and self development
 
 ⚡ Fun fact ...
-- I love watching documentaries so I have my own database that keeps track of all of them!
+- I love watching documentaries so I have my own database that keeps track of all of them :D
 
 📫 How to reach me ...
 - You can contact me through my personal website at https://vondreii.com/contact
