@@ -4,11 +4,11 @@
 **vondreii/vondreii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm a developer from Newcastle, Australia :)
+I'm a developer from Sydney, Australia :)
 
 🔭 What I'm working on ...
 - Full time Software Developer 
-- Used to work in QA at Bohemia Interactive Simulations
+- Used to work in QA
 - Personal projects (like the ones in this GitHub!)
 
 🌱 Things I’m currently learning ...
@@ -24,5 +24,3 @@ I'm a developer from Newcastle, Australia :)
 
 📫 How to reach me ...
 - You can contact me through my personal website at https://vondreii.com/contact
-
-
